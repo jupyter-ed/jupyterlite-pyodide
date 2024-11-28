@@ -30,3 +30,7 @@ numpy
 statsmodels
 scipy
 scikit-learn
+
+# rtc
+
+jupyterlab-webrtc-docprovider
