@@ -18,7 +18,7 @@ jobs:
       - name: Install Conda environment from environment.yml
         uses: mamba-org/provision-with-micromamba@v12
       - name: Build the JupyterLite site
-        shell: bash
+        shell: bash -l {0}
         run: |
           cp README.md content
           jupyter lite build --contents content --output-dir _site
