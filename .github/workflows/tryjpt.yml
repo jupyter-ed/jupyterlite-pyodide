@@ -22,7 +22,9 @@ jobs:
           cache-environment: true 
       - name: Build JupyterLite site
         shell: bash
-        run: jupyter lite build --contents content --output-dir _site
+        run: |
+         micromamba activate jupyterlite-demo
+         jupyter lite build --contents content --output-dir _site
       - name: Upload dist
         uses: actions/upload-pages-artifact@v1
         with:
