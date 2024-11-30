@@ -1,9 +1,10 @@
-name: try-jupyter
+name: jupyterlite-demo
 channels:
 - conda-forge
 dependencies:
 - python =3.11
 - mamba
+- pip
 - ipywidgets >=8.1.1,<9
 - jupyterlab >=4.2.5,<=4.3
 - notebook >=7.2.2,<7.3
