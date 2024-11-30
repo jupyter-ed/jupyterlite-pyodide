@@ -16,12 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: use mamba for python setup    
-        uses: mamba-org/setup-micromamba@v1
+        uses: mamba-org/setup-micromamba@v2
         with:
-          micromamba-version: '1.5.8-0'
           environment-file: environment.yml
           cache-environment: true 
-      - name: Build the JupyterLite site
+      - name: Build JupyterLite site
         shell: bash
         run: jupyter lite build --contents content --output-dir _site
       - name: Upload dist
