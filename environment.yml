@@ -1,0 +1,15 @@
+name: jupyterlite-demo
+channels:
+- conda-forge
+dependencies:
+- python
+- mamba
+- pip
+- ipywidgets
+- jupyterlab
+- notebook
+- jupyterlab-night
+- jupyterlite-core
+- jupyterlite-pyodide-kernel
+- jupyterlite-javascript-kernel
+- ipympl
