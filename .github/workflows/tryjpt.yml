@@ -23,7 +23,7 @@ jobs:
       - name: Build JupyterLite site
         shell: bash
         run: |
-         micromamba shell reinit
+         eval "$(micromamba shell hook --shell bash)"
          micromamba activate jupyterlite-demo
          jupyter lite build --contents content --output-dir _site
       - name: Upload dist
