@@ -1,2 +1,2 @@
 # jupyterlite-pyodide
-examples of jupyterlite using pyodide python kernel
+jupyterlite [demo](https://jupyter-ed.github.io/jupyterlite-pyodide/lab/index.html) using pyodide python kernel
