@@ -3,3 +3,6 @@ channels:
 - conda-forge
 dependencies:
 - jupyterlite-pyodide-kernel
+- jupyterlite-javascript-kernel
+- pip:
+  - jupyterlite-xeus-sqlite
