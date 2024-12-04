@@ -4,6 +4,7 @@ channels:
 dependencies:
 - jupyterlite-core
 - jupyterlab
+- notebook
 - jupyterlite-pyodide-kernel
 - jupyterlite-javascript-kernel
 # interactivity
