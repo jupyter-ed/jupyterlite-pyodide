@@ -1,1 +1,9 @@
-
+name: jptlite-kernels
+channels:
+- conda-forge
+dependencies:
+- jupyterlite-pyodide-kernel
+- jupyterlite-javascript-kernel
+- jupyterlite-core
+- jupyterlab
+- notebook
