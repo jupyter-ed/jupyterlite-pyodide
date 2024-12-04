@@ -1,8 +1,0 @@
-{
-  "LiteBuildConfig": {
-    "no_sourcemaps": true,
-    "no_unused_shared-packages": true,
-    "apps": ["repl"],
-    "contents": ["content"]
-  }
-}
