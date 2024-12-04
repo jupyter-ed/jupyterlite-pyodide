@@ -6,5 +6,18 @@ dependencies:
 - jupyterlab
 - jupyterlite-pyodide-kernel
 - jupyterlite-javascript-kernel
+# interactivity
+- ipywidgets
+- ipyevents
+- ipycanvas
+- ipyleaflet
+# plotting
+- ipympl
+- matplotlib
+# math/high school algebra
+- sympy
+# data analysis
+- pandas
+- numpy
 - pip:
   - jupyterlite-xeus-sqlite
