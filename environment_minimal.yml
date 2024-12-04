@@ -5,5 +5,4 @@ dependencies:
 - jupyterlite-core
 - jupyterlab
 - notebook
-- jupyter_server
 - jupyterlite-pyodide-kernel
