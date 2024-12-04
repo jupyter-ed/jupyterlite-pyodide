@@ -1,4 +1,5 @@
 {
+  "STATUS": "THIS CONIFG IS NOT BEING PICKED BY jupyter lite build"
   "LiteBuildConfig": {
     "no_sourcemaps": true,
     "no_unused_shared_packages": true,
