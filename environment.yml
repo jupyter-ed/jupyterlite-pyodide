@@ -16,7 +16,7 @@ dependencies:
 - ipympl
 - matplotlib
 - plotly
-- bgplot
+- bqplot
 # math/high school algebra
 - sympy
 # data analysis
