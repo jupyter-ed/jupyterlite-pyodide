@@ -12,4 +12,4 @@ jobs:
     with: 
      build_languages: 'python'
      build_script_code: 'mamba jupyterlite-pyodide'
-     mamba_env_file: 'environment.yml'
+     mamba_env_file: 'environment_minimal.yml'
