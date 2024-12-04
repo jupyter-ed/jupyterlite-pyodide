@@ -2,7 +2,7 @@
   "LiteBuildConfig": {
     "no_sourcemaps": true,
     "no_unused_shared_packages": true,
-    "apps": ["notebooks","tree","repl"],
+    "apps": ["lab","notebooks","tree","repl"],
     "contents": ["content"]
   }
 }
