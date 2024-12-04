@@ -1,5 +1,5 @@
 {
-  "STATUS": "THIS CONIFG IS NOT BEING PICKED BY jupyter lite build"
+  "COMMENT": "THIS CONIFG IS PICKED BY jupyter lite build",
   "LiteBuildConfig": {
     "no-sourcemaps": true,
     "no-unused-shared-packages": true,
