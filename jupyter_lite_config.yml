@@ -3,6 +3,6 @@
     "no_sourcemaps": true,
     "no_unused_shared_packages": true,
     "apps": ["edit","console","notebook","tree","lab","repl"],
-     "contents": "content"
+    "contents": ["content"]
   }
 }
