@@ -2,7 +2,7 @@
   "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
     "appName": "JupyterLite-pyodide-demo", 
-    "baseUrl":"./",
+    "baseUrl":"./test2",
     "appUrl":"./lab",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
