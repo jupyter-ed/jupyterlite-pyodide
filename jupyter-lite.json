@@ -5,7 +5,7 @@
     "appUrl":"./lab",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
-    "fullStaticUrl": "./build",
+    "fullStaticUrl": "./dist",
     "collaborative": false,
     "exposeAppInBrowser": true,
     "disabledExtensions": [
