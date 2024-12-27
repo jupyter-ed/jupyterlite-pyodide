@@ -1,6 +1,5 @@
 {
   "LiteBuildConfig": {
-    "base-url": "/test9",
     "no_sourcemaps": true,
     "no_unused_shared_packages": true,
     "contents": ["content"]
