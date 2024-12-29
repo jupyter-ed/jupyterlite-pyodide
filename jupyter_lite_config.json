@@ -1,6 +1,6 @@
 {
   "LiteBuildConfig": {
-    "base_url":"/asdfg/",
+    "base_url":"/asdfg",
     "no_sourcemaps": true,
     "no_unused_shared_packages": true,
     "contents": ["content"]
